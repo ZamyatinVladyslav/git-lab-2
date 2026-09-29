@@ -1,2 +1,2 @@
-Пошта: group@example.com
+Пошта: team@uni.edu (Замятін)
 Група: З-41
